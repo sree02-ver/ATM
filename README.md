@@ -1,1 +1,2 @@
 # ATM
+This Java code defines a basic ATM application with a graphical user interface (GUI) using Swing. It includes components like PIN entry, balance checking, withdrawal, deposit, and exit buttons. Users can enter a PIN, check their balance, withdraw or deposit money, and exit the application. The code uses event listeners to respond to button clicks and handles transactions accordingly. It's a simple educational example and lacks the robust security features of real-world ATMs.
